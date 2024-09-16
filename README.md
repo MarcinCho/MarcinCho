@@ -1,6 +1,6 @@
 
 # Hi, I'm Marcin! 👋😊
-I'm a Junior Java Developer, focusing on Spring Boot and Quarkus, I also try to play with other frameworks and languages like TypeScript, Vue or React (some say that's library) and Golang.
+I'm a Java web Developer, focusing on Spring Boot and Quarkus, I also try to play with other frameworks and languages like TypeScript, Vue or React (some say that's library) and Golang.
 
 For my thesis I was working with Python and ML libraries (Scikit-learn, Tf).
 
